@@ -76,7 +76,7 @@ The favicon is the icon displayed by the window title. It can be customized with
 ```
 
 ### Tag Anatomy
-```
+```html
 <name key="value">content</name>
 ```
 - Every tag has a different name.
