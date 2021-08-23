@@ -34,7 +34,7 @@ Inside `<html>` tag, there should be 2 tags:
 
 ### Browser Window Title
 One example of element that isn't displayed on the page canvas is the window title
-![Browser window title](window_title.png)
+<center><img src="window_title.png" alt="Browser window title" width="300"></center>
 
 You can customize the window title with a `<title></title>` tag:
 
@@ -55,7 +55,7 @@ It's important to use meaninful and simple titles to get more audience.
 
 ### Meta Tags
 Social networks, like Facebook, use `meta` tags inside the `<head></head>` tag to display pretty links of webpages:
-![Facebook webpage link](facebook_metatag_example.png)
+<center><img src="facebook_metatag_example.png" alt="Facebook webpage link" width="500"></center>
 
 This can be achieved with the following code inside the head tag:
 ```html
@@ -113,7 +113,7 @@ Titles can added to the body with `h1, h2, h3, h4, h5, h6` heading tags, where
 ### Paragraph Tag
 You should display a paragraph of text with `<p>This is the paragraph content</p>`.
 A sequence of paragraphs is broken into lines
-[!Sequence of paragraphs](sequence_of_paragraphs.png)
+<center><img src="sequence_of_paragraphs.png" alt="Sequence of paragraphs" width="300"></center>
 
 ### Video Tag
 To display a video, use
