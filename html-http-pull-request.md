@@ -55,7 +55,7 @@ It's important to use meaninful and simple titles to get more audience.
 
 ### Meta Tags
 Social networks, like Facebook, use `meta` tags inside the `<head></head>` tag to display pretty links of webpages:
-<center><img src="facebook_metatag_example.png" alt="Facebook webpage link" width="500"></center>
+<center><img src="facebook_metatag_example.png" alt="Facebook webpage link" width="300"></center>
 
 This can be achieved with the following code inside the head tag:
 ```html
