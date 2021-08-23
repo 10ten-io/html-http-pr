@@ -113,7 +113,7 @@ Titles can added to the body with `h1, h2, h3, h4, h5, h6` heading tags, where
 ### Paragraph Tag
 You should display a paragraph of text with `<p>This is the paragraph content</p>`.
 A sequence of paragraphs is broken into lines
-<center><img src="sequence_of_paragraphs.png" alt="Sequence of paragraphs" width="300"></center>
+<center><img src="sequence_of_paragraphs.png" alt="Sequence of paragraphs" width="200"></center>
 
 ### Video Tag
 To display a video, use
@@ -151,7 +151,7 @@ Or an ordered list with
 ```
 
 And they will be displayed like this
-[!Unordered and ordered lists](lists.png)
+<center><img src="lists.png" alt="Example of HTML lists" width="200"></center>
 
 ### Sections, divisors, headers, articles and main tags
 A section of elements related to a single theme, can be grouped together with `<section></section>`.
